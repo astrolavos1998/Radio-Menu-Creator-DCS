@@ -1,7 +1,10 @@
--= RADIO MENU CREATOR 2 - DCS  =-
+RADIO MENU CREATOR 2 - DCS
 
 Easy way to create your own radio menus for ALL, BLUE and RED COALITION.
 https://github.com/astrolavos1998/Radio-Menu-Creator-DCS
+
+NEW 30.12.2025 new version RADIO MENU CREATOR 2 - DCS v.2.04
+* Add buton "Load LUA file".
 
 NEW 20.12.2025 new version RADIO MENU CREATOR 2 - DCS v.2.03
 * Fully editable.
